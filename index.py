@@ -1,5 +1,5 @@
 name=int(input("enter your number"))
-if (name>50):
+if (name>60):
          print("jay ganeh")
              
 
